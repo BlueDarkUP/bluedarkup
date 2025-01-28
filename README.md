@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and innovator, always l
 
 ## 🛠️ Projects
 
-### 🔹 [FTC Team 2757 Robotics](https://github.com/BlueDarkUP/FTC-27570)
+### 🔹 [FTC Team 27570 Robotics](https://github.com/BlueDarkUP/FTC-27570)
 - Developing advanced AI models for high-precision visual recognition
 - Sharing open-source 3D models for robotics design
 
