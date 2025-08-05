@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm a passionate developer and innovator, always l
 ## 🌐 Connect with us
 
 - **Email**: [BlueDarkUP@Gmail.com](mailto:BlueDarkUP@Gmail.com)
-- **YouTube**: [youtube.com/@Fllplayer](https://youtube.com/@BlueDarkUP)
-- **Instagram**: [instagram.com/yangzh0916]([https://www.instagram.com/bluedarkup/)
+- **YouTube**: [youtube.com/@BlueDarkUP](https://youtube.com/@BlueDarkUP)
+- **Instagram**: [instagram.com/bluedarkup](https://www.instagram.com/bluedarkup/)
 - **Facebook**: [facebook.com/profile.php?id=61560417221310](https://www.facebook.com/profile.php?id=61578829349690)
 
 ---
