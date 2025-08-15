@@ -1,17 +1,17 @@
 <!-- 
 👋 你好, Jiang (BlueDarkUP)! 
-这是为你全面升级后的 README 文件。
-下面是一些自定义提示：
-1.  Banner: 我为你预留了一个 Banner 图片的位置。你可以使用像 Canva.com 这样的工具设计一张个性化的图片，然后替换下面的链接。
-2.  动态内容: 像贪吃蛇动画、Spotify 卡片等需要 GitHub Actions 来自动更新。请根据我提供的注释链接去配置，过程不复杂。
+这是为你更新的最终版本。它使用了动态打字动画作为开头，并包含了所有我们讨论过的优化内容。
 -->
 
-<!-- 1. 个性化 Banner -->
-<p align="center">
-  <!-- ✨ 将下面的 src 链接替换为你自己设计的 Banner 图片链接！尺寸建议 1200x630px -->
-  <img src="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/main/banner.png" alt="Hi, I'm BlueDarkUP (Jiang)">
+<!-- 1. 动态打字 SVG 介绍 -->
+<p align="left">
+  <!-- ✨ 这里的文字已经为你定制好了，你也可以通过修改 URL 中的 `lines=` 参数来更改内容 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Jiang+(BlueDarkUP).;A+Full-Stack+Developer.;An+AI+Robotics+Engineer.;A+Passionate+Innovator." alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- 2. 社交链接 & 访客统计 -->
 <div align="left">
   <a href="https://www.youtube.com/@BlueDarkUP" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:BlueDarkUP@Gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -28,7 +28,7 @@
 
 ## 🚀 Featured Projects
 我相信“项目是最好的学习方式”。这里是我构建的一些系统：
-<!-- 💡 提示: 为你的项目录制 GIF 演示，并添加到表格中，可以让展示更直观！ -->
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 📍 **[Zero-to-YOLO-Yard](https://github.com/BlueDarkUP/Zero2YoloYard)** | 一个**端到端、本地优先**的 Web 应用，旨在简化整个 MLOps 工作流程。它为视频管理、协同标注、AI 辅助打标 (集成 **SAM**)、自动目标追踪和一键导出 YOLO 数据集提供了完整的解决方案。 | `Python`, `Flask`, `SQLite`, `JavaScript`, `OpenCV`, `Ultralytics` |
@@ -86,18 +86,26 @@
   <!-- 语言统计卡片 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueDarkUP&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <!-- 动态贪吃蛇贡献图 -->
-  <!-- 💡 这个动画会自动从你的贡献图中生成，无需额外配置 -->
-  <img src="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake.svg" alt="BlueDarkUP's contribution snake animation" />
-</p>
-### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
-</picture>
+<!-- 动态贪吃蛇贡献图 (自动适配浅色/深色模式) -->
+<!-- 💡 提示: 确保你已经设置好了生成此动画的 GitHub Action，否则图片将无法显示 -->
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake.svg"
+    />
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
 ---
 
 > ✨ 我坚信技术是终极的创意媒介。让我们连接彼此，共同创造一些激动人心的东西吧！
