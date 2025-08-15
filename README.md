@@ -77,25 +77,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueDarkUP&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- 动态贪吃蛇贡献图 (自动适配浅色/深色模式) -->
-<!-- 💡 提示: 确保你已经设置好了生成此动画的 GitHub Action，否则图片将无法显示 -->
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake.svg"
-    />
-    <img 
-      alt="github contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
 ---
 
 > ✨ 我坚信技术是终极的创意媒介。让我们连接彼此，共同创造一些激动人心的东西吧！
