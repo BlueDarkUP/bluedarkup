@@ -91,7 +91,13 @@
   <!-- 💡 这个动画会自动从你的贡献图中生成，无需额外配置 -->
   <img src="https://raw.githubusercontent.com/BlueDarkUP/BlueDarkUP/output/github-contribution-grid-snake.svg" alt="BlueDarkUP's contribution snake animation" />
 </p>
+### 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 > ✨ 我坚信技术是终极的创意媒介。让我们连接彼此，共同创造一些激动人心的东西吧！
