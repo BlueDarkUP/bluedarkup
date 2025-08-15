@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BlueDarkUP (Zhiyu)
+# 👋 Hi, I'm BlueDarkUP (Jiang)
 
 <p align="left">
   <a href="https://www.youtube.com/@BlueDarkUP" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
