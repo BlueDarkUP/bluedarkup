@@ -1,15 +1,5 @@
-<!-- 
-👋 你好, Jiang (BlueDarkUP)! 
-这是为你更新的最终版本。它使用了动态打字动画作为开头，并包含了所有我们讨论过的优化内容。
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+BlueDarkUP.;A+Full-Stack+Developer;An+AI+Robotics+Engineer;A+Passionate+Innovator.)](https://git.io/typing-svg)
 
-<!-- 1. 动态打字 SVG 介绍 -->
-<p align="left">
-  <!-- ✨ 这里的文字已经为你定制好了，你也可以通过修改 URL 中的 `lines=` 参数来更改内容 -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Jiang+(BlueDarkUP).;A+Full-Stack+Developer.;An+AI+Robotics+Engineer.;A+Passionate+Innovator." alt="Typing SVG" />
-  </a>
-</p>
 
 <!-- 2. 社交链接 & 访客统计 -->
 <div align="left">
