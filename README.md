@@ -1,45 +1,50 @@
-# 👋 Hi there, I'm BlueDarkUP!
+# 👋 Hi, I'm BlueDarkUP (Zhiyu)
 
-Welcome to my GitHub profile! I'm a passionate developer and innovator, always looking to explore new frontiers in technology. Here's a little about me:
+<p align="left">
+  <a href="https://www.youtube.com/@BlueDarkUP" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
+  <a href="mailto:BlueDarkUP@Gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.instagram.com/bluedarkup/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
----
-
-## 🚀 About Me
-
-- 🔧 **Skills**: AI/ML, Robotics, 3D Modeling, Embedded Systems, Full-Stack Development
-- 🎓 **Education**: Proud member of FTC Team BAYI RONGZHEN 27570 (BayiEmbodiedAIRobotic - B.E.A.R.) at Bayi School, Beijing
-- 🌟 **Interests**: FIRST Tech Challenge, Open-Source Projects, Technology for Education
-- 🎯 **Goals**: Making technology accessible to everyone and pushing the limits of innovation
+I'm a Grade 11 student, full-stack developer, and AI robotics engineer based in Beijing. My passion lies in architecting end-to-end systems that solve complex, real-world problems—from the initial idea to the final deployment. As a proud member of **FTC Team 27570 (B.E.A.R.)**, I'm constantly exploring the intersection of artificial intelligence, robotics, and software engineering.
 
 ---
 
-## 🛠️ Projects
+## 🚀 Featured Projects
 
-### 🔹 [FTC Team 27570 Robotics](https://github.com/BlueDarkUP/FTC-27570)
-- Developing advanced AI models for high-precision visual recognition
-- Sharing open-source 3D models for robotics design
+I believe the best way to learn is by building. Here are some of the systems I've engineered:
 
-### 🔹 Personal Projects
-- 🔭 **AI Explorations**: Creating practical applications with machine learning
-- 🖌️ **3D Design**: Sharing functional and creative designs using Onshape
-
----
-
-## 🌐 Connect with us
-
-- **Email**: [BlueDarkUP@Gmail.com](mailto:BlueDarkUP@Gmail.com)
-- **YouTube**: [youtube.com/@BlueDarkUP](https://youtube.com/@BlueDarkUP)
-- **Instagram**: [instagram.com/bluedarkup](https://www.instagram.com/bluedarkup/)
-- **Facebook**: [facebook.com/profile.php?id=61560417221310](https://www.facebook.com/profile.php?id=61578829349690)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📍 **[Zero-to-YOLO-Yard](https://github.com/BlueDarkUP/Zero2YoloYard)** | An **end-to-end, local-first web application** that streamlines the entire MLOps workflow. It provides a complete solution for video management, collaborative annotation, AI-assisted labeling (with **SAM 2.1**), automatic object tracking, and one-click YOLO dataset exporting. | `Python`, `Flask`, `SQLite`, `JavaScript`, `OpenCV`, `Ultralytics` |
+| ⚙️ **[FTC-Easy-TFLITE](https://github.com/BlueDarkUP/FTC-Easy-TFLITE)** | A **complete, standardized MLOps pipeline** designed to eliminate the complexity of training and deploying custom models for FTC. It provides an automated, step-by-step workflow from TFRecord datasets to verified, competition-ready `.tflite` models, including a custom **metadata injector** and a standalone model inspector to solve compatibility issues. | `Python`, `TensorFlow`, `Bash`, `Conda` |
+| 🤖 **[RM-Hunter](https://github.com/BlueDarkUP/RM-Hunter)** | An **autonomous sentry robot system** for RoboMaster, built on a multi-threaded architecture. The system uses a YOLO model for detection, a **Kalman Filter** for stable tracking and motion prediction, and a **PID + Feedforward controller** for high-precision gimbal control. It's designed to be a robust, task-driven service activated by external serial commands. | `Python`, `TensorFlow`, `Robomaster SDK`, `OpenCV` |
+| 🌊 **[FLL-AquaHunter](https://github.com/BlueDarkUP/FLL-AquaHunter)** | An **AI-powered underwater ROV** for the FLL 2025 Innovation Project, designed to autonomously identify and capture invasive lionfish. This project integrates a YOLOv8 model with the **SORT algorithm** (Kalman Filter + Hungarian Algorithm) for persistent object tracking and uses a P-controller for visual servoing. | `Python`, `OpenCV`, `Arduino (C++)`, `SORT Algorithm` |
 
 ---
 
-## 📊 GitHub Stats
+##  toolbox My Tech Stack & Toolbox
 
-![BlueDarkUP's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueDarkUP&show_icons=true&theme=radical)
+Here are some of the technologies I work with daily:
+
+- **Languages**: `Python`, `Java`, `C++`, `JavaScript`, `Bash`
+- **AI / Machine Learning**: `TensorFlow`, `PyTorch`, `OpenCV`, `Scikit-learn`, `Ultralytics (YOLO, SAM)`
+- **Backend & Database**: `Flask`, `SQLite`, `REST APIs`
+- **Frontend**: `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`
+- **Robotics**: `FTC SDK`, `RoboMaster SDK`, `ROS (Learning)`, `PID Control`, `Kalman Filters`
+- **Tools & Platforms**: `Git`, `GitHub`, `Docker`, `Conda`, `WSL`, `Onshape`, `Fusion 360`
 
 ---
 
-## ✨ Fun Fact
+## 📊 My GitHub Stats
 
-I believe that **collaboration** is the key to solving the world's most challenging problems. Let's build something amazing together! 💡
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueDarkUP&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="BlueDarkUP's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueDarkUP&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+> ✨ I believe that technology is the ultimate creative medium. Let's connect and build something amazing together!
